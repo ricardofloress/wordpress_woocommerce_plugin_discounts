@@ -1,2 +1,2 @@
-# worpress_woocomerce_plugin_discounts
+# wordpress_woocommerce_plugin_discounts
 Wordpress plugin that enables the admin to give discounts per category by client
